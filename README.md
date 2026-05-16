@@ -21,9 +21,9 @@ CodeAlpha_UnemploymentAnalysis/
 - **unemployment_analysis.py**                   `Main analysis script`
 - **Unemployment_in_India.csv**                  `Dataset 1`
 - **Unemployment_Rate_upto_11_2020.csv**         `Dataset 2`
-- **01_unemployment_dataset1_analysis.png**      `Full data analysis`
-- **02_unemployment_dataset2_analysis.png**      `2020 focus analysis`
-- **03_unemployment_comparison.png**             `Dataset comparison`
+- **unemployment_dataset1.png**      `Full data analysis`
+- **unemployment_dataset2.png**      `2020 focus analysis`
+- **unemployment_comparison.png**             `Dataset comparison`
 ## Analysis Components
 
 ### 1. Exploratory Data Analysis
